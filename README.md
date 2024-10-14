@@ -39,7 +39,4 @@ This project was initially developed as part of an academic assignment for the c
 4. **End Game**:
     - The game ends when one player has sunk all the opponent's boats, or in a draw if both players lose all their boats simultaneously.
 
-## Example
-
-Here’s an example of how the game board may look:
 
